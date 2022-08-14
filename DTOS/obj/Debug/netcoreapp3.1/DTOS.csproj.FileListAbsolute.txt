@@ -1,0 +1,10 @@
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\bin\Debug\netcoreapp3.1\DTOS.deps.json
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\bin\Debug\netcoreapp3.1\DTOS.dll
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\bin\Debug\netcoreapp3.1\DTOS.pdb
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\obj\Debug\netcoreapp3.1\DTOS.csproj.AssemblyReference.cache
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\obj\Debug\netcoreapp3.1\DTOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\obj\Debug\netcoreapp3.1\DTOS.AssemblyInfoInputs.cache
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\obj\Debug\netcoreapp3.1\DTOS.AssemblyInfo.cs
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\obj\Debug\netcoreapp3.1\DTOS.csproj.CoreCompileInputs.cache
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\obj\Debug\netcoreapp3.1\DTOS.dll
+D:\IMPORTANTE\Develop\Project\Api-Ecommerce\ApiEcommerceSolucion\DTOS\obj\Debug\netcoreapp3.1\DTOS.pdb
