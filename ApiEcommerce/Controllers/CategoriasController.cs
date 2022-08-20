@@ -28,6 +28,7 @@ namespace ApiEcommerce.Controllers
         {
             try
             {
+                
                 var categorias = ManejadorCat.ObtenerTodosLasCategorias();
                 if (categorias == null) return BadRequest();
                 return Ok(categorias);
