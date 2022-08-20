@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Dominio\\Dominio.csproj": {}
+    "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Dominio\\Dominio.csproj": {
+    "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Dominio\\obj\\",
+        "outputPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\DTOS\\DTOS.csproj": {
-                "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\DTOS\\DTOS.csproj"
+              "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\DTOS\\DTOS.csproj": {
+                "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\DTOS\\DTOS.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\DTOS\\DTOS.csproj": {
+    "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\DTOS\\DTOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\DTOS\\DTOS.csproj",
+        "projectUniqueName": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\DTOS\\DTOS.csproj",
         "projectName": "DTOS",
-        "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\DTOS\\DTOS.csproj",
+        "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\DTOS\\DTOS.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\DTOS\\obj\\",
+        "outputPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\DTOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

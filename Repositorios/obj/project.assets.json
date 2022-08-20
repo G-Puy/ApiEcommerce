@@ -3560,11 +3560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Repositorios\\Repositorios.csproj",
+      "projectUniqueName": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Repositorios\\Repositorios.csproj",
       "projectName": "Repositorios",
-      "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Repositorios\\Repositorios.csproj",
+      "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Repositorios\\Repositorios.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Repositorios\\obj\\",
+      "outputPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Repositorios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3585,11 +3585,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Dominio\\Dominio.csproj": {
-              "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\Dominio\\Dominio.csproj"
+            "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Dominio\\Dominio.csproj": {
+              "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\Dominio\\Dominio.csproj"
             },
-            "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\DTOS\\DTOS.csproj": {
-              "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\ApiEcommerceSolucion\\DTOS\\DTOS.csproj"
+            "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\DTOS\\DTOS.csproj": {
+              "projectPath": "D:\\IMPORTANTE\\Develop\\Project\\Api-Ecommerce\\Api-ecomm\\DTOS\\DTOS.csproj"
             }
           }
         }
